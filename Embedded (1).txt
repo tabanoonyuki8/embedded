@@ -1,0 +1,12 @@
+1.Design and develop a reprogrammable embedded Computer using 8051 Microcontroller.   https://www.youtube.com/watch?v=DmQ0eXxPxEQ
+
+2.(b) Use of general purpose I/O port of two controllers for data transfer.   https://www.youtube.com/watch?v=znxln4d1QiA
+
+3.(b) To interface 8 LEDs at I/O ports and create different patterns.   https://www.youtube.com/watch?v=alj2vIVMVzg
+
+4.(b) To demonstrate seven segments LED display and generate counting from 0 to 99.  https://www.youtube.com/watch?v=veROb-YtTZY
+
+6. Interface Stepper motor with 8051.  https://www.youtube.com/watch?v=N404FpF-jlE
+
+7. Generate Traffic signals.    https://www.youtube.com/watch?v=_7roGlR8VLw
+ 
